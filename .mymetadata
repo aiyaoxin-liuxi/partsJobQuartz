@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="partsJobQuartz"
+  id="myeclipse.1495011065758"
+  context-root="/partsJobQuartz"
+  j2ee-spec="6.0"
+  archive="partsJobQuartz.war">
+  <attributes>
+    <attribute name="webrootdir" value="webapp" />
+  </attributes>
+</project-module>
+
